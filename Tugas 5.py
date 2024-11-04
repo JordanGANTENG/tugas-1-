@@ -1,0 +1,7 @@
+print ("Nim = 24241167") 
+print ("Awal = 24") 
+print ("Akhir =67") 
+print ("Alas = 67") 
+print ("tinggi = 24") 
+print ("L=½×67×24") 
+print ("Hasil dari = L=½×67×24=804") 
