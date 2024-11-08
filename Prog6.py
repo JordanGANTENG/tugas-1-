@@ -1,7 +1,7 @@
 
 x = 9
 y = 6
-print ("nilai dari x adalah : ", y)
+print ("nilai dari x adalah : ", x)
 
 #aturan penamaan variabel
 luas = 60 # bisa berupa kata
