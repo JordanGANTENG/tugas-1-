@@ -1,7 +1,7 @@
-# Menghitung Segitiga 
-# nama : Mufrihzahy Jordan Aslam
+Menghitung Luas Segitiga 
+nama : Mufrihzahy Jordan Aslam
 
-print("===== Menghitung Segitiga =====")
+print("===== Menghitung Luang Segitiga =====")
 alas = int(input("Masukkan Alas : "))
 tinggi = int(input("Masukkan Tinggi : "))
 
