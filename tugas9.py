@@ -10,5 +10,5 @@ kelvin = (nilai + 273,15)
 print("nilai dari kelvin = ",kelvin)
 
 
-reamur = (nilai (4/5) * celcius
-print(f"nilai dari reamur: {reamur}r)
+reamur = nilai * (5/4)+0
+print("nilai dari kelvin = ",reamur)
